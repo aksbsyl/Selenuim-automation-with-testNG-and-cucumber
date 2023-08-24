@@ -25,7 +25,7 @@ public class firsttest {
        WebDriver driver = new FirefoxDriver();
        driver.manage().window().maximize();
        // Navigate to the website
-      // driver.get("https://www.medicare.gov/care-compare/?providerType=Hospital");
+      // driver.get("https://www.medi.go/care-compare/?providerType=Hospital");
 
 
 driver.get("https://www.medicare.gov/");
