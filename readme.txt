@@ -19,7 +19,7 @@ public class firsttest {
 
    public static void main(String[] args) throws InterruptedException {
        // Path to the geckodriver executable file
-       System.setProperty("webdriver.gecko.driver", "C:\\Users\\achyu\\IdeaProjects\\geckodriver.exe");
+       System.setProperty("webdriver.gecko.driver", "C:\\Users\\");
 
        // Create a new Firefox driver
        WebDriver driver = new FirefoxDriver();
